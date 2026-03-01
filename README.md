@@ -100,12 +100,6 @@ FinOps & Cost Optimisation                 ████████████�
 
 ---
 
-## 📊 GitHub Stats
-
-![Sovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovanguha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
----
-
 ## 📝 Architectural Philosophy
 
 ```
