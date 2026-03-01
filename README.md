@@ -102,10 +102,7 @@ FinOps & Cost Optimisation                 ████████████�
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovanguha&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovanguha&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+![Sovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovanguha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 ---
 
